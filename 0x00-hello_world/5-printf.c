@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-*main it the entry point
+*main is the entry point
 *file is 5-printf.c
 *
 *Return: 0
