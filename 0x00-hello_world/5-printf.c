@@ -1,13 +1,14 @@
 #include <stdio.h>
 
 /**
-*main it the entry point
-*file is 5-printf.c
+* main - it the entry point
 *
-*Return: 0
+* file name - is 5-printf.c
+*
+* Return: 0
 */
 int main(void)
 {
-  printf("with proper grammar, but the outcome is a piece of art,\n");
-  return (0);
+printf("with proper grammar, but the outcome is a piece of art,\n");
+return (0);
 }
