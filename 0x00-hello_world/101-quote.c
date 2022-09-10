@@ -1,10 +1,15 @@
-#include <studio.h>
+/*
+*File is 101-quote.c
+*Author is Brenan D Baraban
+*/
+
 #include <unistd.h>
 
 /**
-*  main: is Entry point
+*main -  prints Entry point which is a quote
+*Description - print  Dora's quote
 *
-*  Return: Always 1 (Success)
+*Return: Always 1 (Success)
 */
 int main(void)
 {
