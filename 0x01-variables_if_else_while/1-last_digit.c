@@ -3,9 +3,9 @@
 #include <stdio.h
 
 /**
-*main - Prints the results to be <6, >5 or equal to 0.
+*main - Entry point..
 *
-*Return- Always 0
+*Return- Always 0.
 */
 
 int main(void)
