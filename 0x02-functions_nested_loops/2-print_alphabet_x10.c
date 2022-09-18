@@ -6,8 +6,8 @@
 **/
 void print_alphabet(void)
 {
-char i;
-for (i = 'a'; i <= 'z'; i++)
+char c, i;
+for (c = 'a'; c <= 'z'; i++)
 {
 _putchar(i);
 }
