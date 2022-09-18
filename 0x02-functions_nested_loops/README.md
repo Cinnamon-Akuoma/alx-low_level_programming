@@ -1,1 +1,1 @@
-This project will cover C functions
+Functions and Nested Loops in C
