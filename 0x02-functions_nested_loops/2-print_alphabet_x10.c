@@ -11,11 +11,11 @@ for (c = 'a'; c <= 'z'; i++)
 {
 _putchar(i);
 }
-_putchar("\n");
+_putchar('\n');
 }
 
 /**
-*print_alphabet_x10 - prints alphabets 10times
+*print_alphabet_x10 - prints alphabets 10 times
 *
 **/
 void print_alphabet_x10(void)
